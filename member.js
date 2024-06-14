@@ -1,0 +1,33 @@
+function skillsMember() {
+  var member = document.getElementById('member');
+  var memberValue = member.options[member.selectedIndex].value;
+  var memberText = member.options[member.selectedIndex].text;
+  var memberSkills = document.getElementById('memberSkills');
+  var memberSkillsText = document.getElementById('memberSkillsText');
+  var memberSkillsValue = document.getElementById('memberSkillsValue');
+  var memberSkillsValueText = document.getElementById('memberSkillsValueText');
+  var memberSkillsValueText2 = document.getElementById('memberSkillsValueText2');
+  var memberSkillsValueText3 = document.getElementById('memberSkillsValueText3');
+  var memberSkillsValueText4 = document.getElementById('memberSkillsValueText4');
+  var memberSkillsValueText5 = document.getElementById('memberSkillsValueText5');
+  var memberSkillsValueText6 = document.getElementById('memberSkillsValueText6');
+  var memberSkillsValueText7 = document.getElementById('memberSkillsValueText7');
+  var memberSkillsValueText8 = document.getElementById('memberSkillsValueText8');
+  var memberSkillsValueText9 = document.getElementById('memberSkillsValueText9');
+  var memberSkillsValueText10 = document.getElementById('memberSkillsValueText10');
+  var memberSkillsValueText11 = document.getElementById('memberSkillsValueText11');
+  var memberSkillsValueText12 = document.getElementById('memberSkillsValueText12');
+  var memberSkillsValueText13 = document.getElementById('memberSkillsValueText13');
+  var memberSkillsValueText14 = document.getElementById('memberSkillsValueText14');
+  var memberSkillsValueText15 = document.getElementById('memberSkillsValueText15');
+  var memberSkillsValueText16 = document.getElementById('memberSkillsValueText16');
+  var memberSkillsValueText17 = document.getElementById('memberSkillsValueText17');
+  var memberSkillsValueText18 = document.getElementById('memberSkillsValueText18');
+  var memberSkillsValueText19 = document.getElementById('memberSkillsValueText19');
+  var memberSkillsValueText20 = document.getElementById('memberSkillsValueText20');
+  var memberSkillsValueText21 = document.getElementById('memberSkillsValueText21');
+  var memberSkillsValueText22 = document.getElementById('memberSkillsValueText22');
+  var memberSkillsValueText23 = document.getElementById('memberSkillsValueText23');
+  var memberSkillsValueText24 = document.getElementById('memberSkillsValueText24');
+  var memberSkillsValueText25 = document.getElementById('memberSkillsValueText25');
+  var member
